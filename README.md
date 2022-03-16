@@ -2,12 +2,12 @@
 *This was the first assignment given in the COMP610 Data Structures and Algorithms paper at AUT*
  
  **Overall Grade**
- A-
- 83/100
+ A-/ 
+ 83/100/
  
  -------------------------------------------------------------------------------------------------------------------------------------------
  
- **Question 1 - Boid flock**
+ **Question 1 - Boid flock**/
 ![image](https://user-images.githubusercontent.com/75343007/158699650-ba8a6180-eb74-4b5a-9002-940dba4d64d4.png)
 
 This was a boid flocking simulator. It's supposed to simulate boids grouping together and fly into each other.
@@ -59,7 +59,7 @@ The special functions contains:
 
 -------------------------------------------------------------------------------------------------------------------------------------------
 
-**Question 4 - Pancake Sorting Algorithm**
+**Question 4 - Pancake Sorting Algorithm**/ 
 ![image](https://user-images.githubusercontent.com/75343007/158702290-39225577-98a1-4f2d-9d4f-ec7a3e6bf170.png)
 
 This program solves the pancake algorithm question that is popular to solve amongst computer scientist. 
