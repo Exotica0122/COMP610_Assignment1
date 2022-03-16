@@ -57,15 +57,19 @@ The program implmented two different types of data structures
 The special functions contains:
 
 - offerFront
+
 *Adds element to the front from queue*
 
 - offerRear
+
 *Adds element to the back from queue*
 
 - pollFront
+
 *Removes front element from queue*
 
 - pollRear
+
 *Removes last element from queue*
 
 **Question 3 Mark**
