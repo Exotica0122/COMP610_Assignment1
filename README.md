@@ -39,7 +39,7 @@ The start and end range can be open range meaning putting putting null as the en
 
 `remove(null, null)`
 
-this should remove all elements in the LinkedRRSet.
+This should remove all elements in the LinkedRRSet.
 
 **Question 2 Mark**
 
