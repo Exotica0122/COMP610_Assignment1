@@ -28,6 +28,7 @@ This program extends from the linkedSet that was provided from the lecturer and 
 The special functions contains:
 -remove elements with start and end range
 `remove(start, end)`
+
 -retain elements with start and end range
 `retain(start, end)`
 
