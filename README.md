@@ -26,6 +26,7 @@ Unfortunatly I was unable to finish this question :(
 This program extends from the linkedSet that was provided from the lecturer and allow special functions.
 
 The special functions contains:
+
 -remove elements with start and end range
 `remove(start, end)`
 
@@ -33,8 +34,11 @@ The special functions contains:
 `retain(start, end)`
 
 The start and end range can be open range meaning putting putting null as the end range means it should remove/retain till the last element.
+
 **eg:**
+
 `remove(null, null)`
+
 this should remove all elements in the LinkedRRSet.
 
 **Question 2 Mark**
@@ -51,12 +55,16 @@ The program implmented two different types of data structures
 - Linked Queue
 
 The special functions contains:
+
 - offerFront
 *Adds element to the front from queue*
+
 - offerRear
 *Adds element to the back from queue*
+
 - pollFront
 *Removes front element from queue*
+
 - pollRear
 *Removes last element from queue*
 
